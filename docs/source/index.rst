@@ -17,8 +17,8 @@ Bibliography
 
 This library is based on two papers:
 
-* R amiro H. Gá lvez, L ara G auder, J ordi L uque, and Agustí n G ravano (2020). `"A unifying framework for modeling acoustic/prosodic entrainment: definition and evaluation on two large corpora" <https://aclanthology.org/2020.sigdial-1.27/>`_. In Proceedings of SIGDIAL 2020.
-* J uan M. Pé rez, R amiro H. Gá lvez, and Agustí n G ravano (2016). `"Disentrainment may be a Positive Thing: A Novel Measure of Unsigned Acoustic-Prosodic Synchrony, and its Relation to Speaker Engagement" <https://www.isca-speech.org/archive/interspeech_2016/perez16_interspeech.html>`_. In Proceedings of INTERSPEECH 2016.
+* "A unifying framework for modeling acoustic/prosodic entrainment: definition and evaluation on two large corpora" <https://aclanthology.org/2020.sigdial-1.27/>`_. In Proceedings of SIGDIAL 2020.
+* "Disentrainment may be a Positive Thing: A Novel Measure of Unsigned Acoustic-Prosodic Synchrony, and its Relation to Speaker Engagement" <https://www.isca-speech.org/archive/interspeech_2016/perez16_interspeech.html>`_. In Proceedings of INTERSPEECH 2016.
 
 .. toctree::
    :maxdepth: 2
